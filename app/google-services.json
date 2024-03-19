@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000713734954",
+    "project_id": "bhel-8f39c",
+    "storage_bucket": "bhel-8f39c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000713734954:android:633e21be8c4e26f04e2c53",
+        "android_client_info": {
+          "package_name": "com.example.bhel_operation_navit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXbF3LVk7-ELKo84Je3BcaAKypXOdJpIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
